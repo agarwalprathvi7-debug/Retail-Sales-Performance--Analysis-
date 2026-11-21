@@ -1,0 +1,23 @@
+{
+    "total_revenue": 5369713.82,
+    "total_quantity": 3717,
+    "order_count": 1200,
+    "average_order_value": 4474.76,
+    "revenue_verified": true,
+    "best_month": "2025-05",
+    "best_month_revenue": 531759.27,
+    "top_category": "Clothing",
+    "top_city": "Bengaluru",
+    "top_payment_method": "UPI",
+    "outlier_count": 38,
+    "numpy_mean_revenue": 4474.7615166666665,
+    "numpy_median_revenue": 3102.535,
+    "numpy_std_revenue": 4620.2099407953165,
+    "recommendations": [
+        "Prioritise inventory planning for Clothing, the highest-revenue category.",
+        "Review local marketing and stock availability in Bengaluru, the top city by revenue.",
+        "Keep the UPI payment experience reliable because it contributes the most revenue.",
+        "Investigate customer experience and checkout friction for Net Banking, the lowest-revenue payment method.",
+        "Use targeted bundles or related-product offers around Jacket, the top product by revenue."
+    ]
+}

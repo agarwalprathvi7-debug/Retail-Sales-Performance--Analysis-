@@ -1,0 +1,5 @@
+1. Prioritise inventory planning for Clothing, the highest-revenue category.
+2. Review local marketing and stock availability in Bengaluru, the top city by revenue.
+3. Keep the UPI payment experience reliable because it contributes the most revenue.
+4. Investigate customer experience and checkout friction for Net Banking, the lowest-revenue payment method.
+5. Use targeted bundles or related-product offers around Jacket, the top product by revenue.
